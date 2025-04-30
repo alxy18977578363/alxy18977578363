@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+## 🏆 获得的奖项
+
+我最近获得了以下奖项：
+- **第十六届蓝桥杯**：上海市二等奖
+- **[奖项名称]**：为创新项目获得的认可。
+
 - 🔭 I’m currently working on Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 👯 I’m looking to collaborate on University study skills and job search
