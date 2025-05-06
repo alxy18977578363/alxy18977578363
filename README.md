@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 我最近获得了以下奖项：
 - **第十六届蓝桥杯**：上海市二等奖
-- **[奖项名称]**：为创新项目获得的认可。
+- **2025年美国数学建模大赛 MCM/ICM**：S奖
 
 - 🔭 I’m currently working on Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
