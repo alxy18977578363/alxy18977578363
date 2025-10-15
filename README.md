@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 ## 🏆 获得的奖项
 
 我最近获得了以下奖项：
-- **第十六届蓝桥杯**：上海市二等奖
-- **2025年美国数学建模大赛 MCM/ICM**：S奖
+- **2025 第十六届蓝桥杯**：上海市二等奖
+- **2025 美国数学建模大赛 MCM/ICM**：S奖
+- **2025 全国大学生统计建模大赛** ： 上海市一等奖（队长）
 
 - 🔭 I’m currently working on Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
